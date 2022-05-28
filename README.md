@@ -5,19 +5,19 @@
 </div>  
   
 
-### <div align="center">im shuvam, and im interested in data science.</div>  
+### <div align="center">im shuvam, my interest include.</div>  
   
 
--   
+- data  
   
 
--   
+- economics  
   
 
--   
+-   math
   
 
--   
+
   
 
 <br/>  
